@@ -3,6 +3,16 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Ignore the following files
+credits.csv
+keywords.csv
+links.csv
+links_small.csv
+movies_metadata.csv
+ratings.csv
+ratings_small.csv
+
+
 # C extensions
 *.so
 
