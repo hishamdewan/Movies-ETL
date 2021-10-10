@@ -5,6 +5,7 @@ __pycache__/
 
 # Ignore the following files
 config.py
+
 credits.csv
 keywords.csv
 links.csv
